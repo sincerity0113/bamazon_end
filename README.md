@@ -12,7 +12,7 @@ In this activity, you'll be creating an Amazon-like storefront with the MySQL sk
 
 ## runing sample
 
-[img]https://i.imgur.com/YH6P591.gif[/img]
+![testimg](https://i.imgur.com/YH6P591.gif)
 
 ### author
 Taeyeong (T.J.) Park
